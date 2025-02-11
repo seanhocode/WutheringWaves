@@ -3,13 +3,13 @@ GO
 -- 建立副詞條表
 CREATE TABLE SubEchoAttribute (
     SubEchoAttributeID INT IDENTITY(1,1) PRIMARY KEY, -- 副詞條 ID，自動增量
-    Level INTEGER NOT NULL, -- 副詞條等級 (1-8)
-    AttributeCode VARCHAR(100) NOT NULL, -- 詞條類型 (例如：Attack, CritRate, HP)
-    AttributeValue DECIMAL(7,2) NOT NULL -- 詞條數值
+    Level INT NOT NULL, -- 副詞條等級 (1-8)
+    EchoAttributeCode VARCHAR(100) NOT NULL, -- 詞條類型 (例如：Attack, CritRate, HP)
+    EchoAttributeValue DECIMAL(7,2) NOT NULL -- 詞條數值
 );
 
 -- 插入副詞條數據
-INSERT INTO SubEchoAttribute (Level, AttributeCode, AttributeValue) VALUES
+INSERT INTO SubEchoAttribute (Level, EchoAttributeCode, EchoAttributeValue) VALUES
 (1, 'Attack', 60.00), (1, 'Defense', 60.00), (1, 'HP', 580.00), (1, 'AttackPercent', 11.60), (1, 'DefensePercent', 15.00), (1, 'HPPercent', 11.60), (1, 'CritRate', 10.50), (1, 'CritDamage', 21.00), (1, 'ResonanceEfficiency', 12.40), (1, 'ResonanceSkillDamage', 11.60), (1, 'ResonanceReleaseDamage', 11.60), (1, 'NormalAttackDamage', 11.60), (1, 'HeavyAttackDamage', 11.60),
 (2, 'Attack', 50.00), (2, 'Defense', 50.00), (2, 'HP', 540.00), (2, 'AttackPercent', 10.90), (2, 'DefensePercent', 13.80), (2, 'HPPercent', 10.90), (2, 'CritRate', 9.90), (2, 'CritDamage', 19.80), (2, 'ResonanceEfficiency', 11.60), (2, 'ResonanceSkillDamage', 10.90), (2, 'ResonanceReleaseDamage', 10.90), (2, 'NormalAttackDamage', 10.90), (2, 'HeavyAttackDamage', 10.90),
 (3, 'Attack', 40.00), (3, 'Defense', 40.00), (3, 'HP', 510.00), (3, 'AttackPercent', 10.10), (3, 'DefensePercent', 12.80), (3, 'HPPercent', 10.10), (3, 'CritRate', 9.30), (3, 'CritDamage', 18.60), (3, 'ResonanceEfficiency', 10.80), (3, 'ResonanceSkillDamage', 10.10), (3, 'ResonanceReleaseDamage', 10.10), (3, 'NormalAttackDamage', 10.10), (3, 'HeavyAttackDamage', 10.10),
