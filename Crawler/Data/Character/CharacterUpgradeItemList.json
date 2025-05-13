@@ -1,0 +1,5282 @@
+[
+  [
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "Roaring Rock Fist",
+      "Value": 46
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "Wintry Bell",
+      "Value": 60
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 40
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 55
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Aalto",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "Sound-Keeping Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "Lanternberry",
+      "Value": 60
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Baizhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "Blazing Bone",
+      "Value": 46
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "Golden Fleece",
+      "Value": 60
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 4
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "等級提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 4
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 45
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 20
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 3
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 3
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "固有技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 2
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Brant",
+      "ItemType": "屬性提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Thundering Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Iris",
+      "Value": 60
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 25
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 25
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 40
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 55
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 3
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 3
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Calcharo",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "Topological Confinement",
+      "Value": 46
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "Nova",
+      "Value": 60
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 20
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "固有技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 2
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Camellya",
+      "ItemType": "屬性提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "Cleansing Conch",
+      "Value": 46
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "Seaside Cendrelis",
+      "Value": 60
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "等級提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 45
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "技能提升素材",
+      "Item": "When Irises Bloom",
+      "Value": 20
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "固有技能提升素材",
+      "Item": "When Irises Bloom",
+      "Value": 2
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Cantarella",
+      "ItemType": "屬性提升素材",
+      "Item": "When Irises Bloom",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "Platinum Core",
+      "Value": 46
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "Sword Acorus",
+      "Value": 60
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "等級提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 40
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 55
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 45
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 20
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "固有技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 2
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Carlotta",
+      "ItemType": "屬性提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Rage Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Pavo Plum",
+      "Value": 60
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 20
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "固有技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 2
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Changli",
+      "ItemType": "屬性提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "Rage Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "Belle Poppy",
+      "Value": 60
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 40
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 55
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Chixia",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Strife Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Belle Poppy",
+      "Value": 60
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 20
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 2
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Danjin",
+      "ItemType": "屬性提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "Rage Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "Pecok Flower",
+      "Value": 60
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Encore",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "Roaring Rock Fist",
+      "Value": 46
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "Lanternberry",
+      "Value": 60
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jianxin",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "Elegy Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "Loong's Pearl",
+      "Value": 60
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 25
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 25
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 40
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 55
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 20
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 3
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 3
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 2
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jinhsi",
+      "ItemType": "屬性提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "Roaring Rock Fist",
+      "Value": 46
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "Pecok Flower",
+      "Value": 60
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 25
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 25
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 40
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 55
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 3
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 3
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Jiyan",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "Sound-Keeping Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "Coriolus",
+      "Value": 60
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lingyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "Thundering Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "Terraspawn Fungus",
+      "Value": 60
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 25
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 25
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 40
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 55
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 20
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 3
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 3
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 2
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Lumi",
+      "ItemType": "屬性提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "Rage Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "Coriolus",
+      "Value": 60
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 25
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 40
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 55
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Impure Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Extracted Phlogiston",
+      "Value": 3
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "Refined Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "Flawless Phlogiston",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Mortefi",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "Cleansing Conch",
+      "Value": 46
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "Firecracker Jewelweed",
+      "Value": 60
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 20
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "固有技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 2
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Phoebe",
+      "ItemType": "屬性提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "Cleansing Conch",
+      "Value": 46
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "Firecracker Jewelweed",
+      "Value": 60
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 4
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "等級提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 4
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 25
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 45
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 20
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Tidal Residuum",
+      "Value": 3
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Tidal Residuum",
+      "Value": 3
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "固有技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 2
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Tidal Residuum",
+      "Value": 12
+    },
+    {
+      "Character": "Roccia",
+      "ItemType": "屬性提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "Sound-Keeping Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "Wintry Bell",
+      "Value": 60
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Sanhua",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "Topological Confinement",
+      "Value": 46
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "Nova",
+      "Value": 60
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 20
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "固有技能提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 2
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Shorekeeper",
+      "ItemType": "屬性提升素材",
+      "Item": "Sentinel's Dagger",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "Gold-Dissolving Feather",
+      "Value": 46
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "Iris",
+      "Value": 60
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 25
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 25
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 40
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 55
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 20
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 210",
+      "Value": 3
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Waveworn Residue 226",
+      "Value": 3
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 2
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 235",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "Waveworn Residue 239",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Taoqi",
+      "ItemType": "屬性提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "Elegy Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "Belle Poppy",
+      "Value": 60
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Verina",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "Hidden Thunder Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "Violet Coral",
+      "Value": 60
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Xiangli Yao",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Roaring Rock Fist",
+      "Value": 46
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Wintry Bell",
+      "Value": 60
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 25
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 40
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 55
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Inert Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Reactive Metallic Drip",
+      "Value": 3
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Polarized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Heterized Metallic Drip",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yangyang",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "Group Abomination Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "Coriolus",
+      "Value": 60
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "等級提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 4
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 25
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 45
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 20
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Whisperin Core",
+      "Value": 3
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "固有技能提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 2
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Whisperin Core",
+      "Value": 12
+    },
+    {
+      "Character": "Yinlin",
+      "ItemType": "屬性提升素材",
+      "Item": "Dreamless Feather",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Topological Confinement",
+      "Value": 46
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Violet Coral",
+      "Value": 60
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Youhu",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Hidden Thunder Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Terraspawn Fungus",
+      "Value": 60
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Crude Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Basic Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "等級提升素材",
+      "Item": "Tailored Ring",
+      "Value": 4
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Improved Ring",
+      "Value": 25
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Tailored Ring",
+      "Value": 45
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 20
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Crude Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Basic Ring",
+      "Value": 3
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "固有技能提升素材",
+      "Item": "Unending Destruction",
+      "Value": 2
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Improved Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Tailored Ring",
+      "Value": 12
+    },
+    {
+      "Character": "Yuanwu",
+      "ItemType": "屬性提升素材",
+      "Item": "Unending Destruction",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "Platinum Core",
+      "Value": 46
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "Sword Acorus",
+      "Value": 60
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "等級提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 4
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 25
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 25
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 40
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 55
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 45
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 20
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Seed",
+      "Value": 3
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "Cadence Bud",
+      "Value": 3
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Polygon Core",
+      "Value": 3
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "固有技能提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 2
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Leaf",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "Cadence Blossom",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Polygon Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zani",
+      "ItemType": "屬性提升素材",
+      "Item": "The Netherworld's Stare",
+      "Value": 4
+    }
+  ],
+  [
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "Shell Credit",
+      "Value": 170000
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "Sound-Keeping Tacet Core",
+      "Value": 46
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "Lanternberry",
+      "Value": 60
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "LF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "MF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "等級提升素材",
+      "Item": "FF Howler Core",
+      "Value": 4
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 1400000
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 25
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Andante Helix",
+      "Value": 40
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Presto Helix",
+      "Value": 55
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "HF Howler Core",
+      "Value": 25
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "FF Howler Core",
+      "Value": 45
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 20
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Shell Credit",
+      "Value": 30000
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Lento Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Adagio Helix",
+      "Value": 3
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "LF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "MF Howler Core",
+      "Value": 3
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "固有技能提升素材",
+      "Item": "Monument Bell",
+      "Value": 2
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Shell Credit",
+      "Value": 600000
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Andante Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Presto Helix",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "HF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "FF Howler Core",
+      "Value": 12
+    },
+    {
+      "Character": "Zhezhi",
+      "ItemType": "屬性提升素材",
+      "Item": "Monument Bell",
+      "Value": 4
+    }
+  ]
+]
