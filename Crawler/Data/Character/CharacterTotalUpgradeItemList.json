@@ -1,0 +1,1592 @@
+[
+  {
+    "Character": "Aalto",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Roaring Rock Fist",
+        "Value": 46
+      },
+      {
+        "Item": "Wintry Bell",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Impure Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Extracted Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Refined Phlogiston",
+        "Value": 52
+      },
+      {
+        "Item": "Flawless Phlogiston",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Baizhi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Sound-Keeping Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Lanternberry",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Brant",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Blazing Bone",
+        "Value": 46
+      },
+      {
+        "Item": "Golden Fleece",
+        "Value": 60
+      },
+      {
+        "Item": "LF Tidal Residuum",
+        "Value": 32
+      },
+      {
+        "Item": "MF Tidal Residuum",
+        "Value": 40
+      },
+      {
+        "Item": "HF Tidal Residuum",
+        "Value": 49
+      },
+      {
+        "Item": "FF Tidal Residuum",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "The Netherworld's Stare",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Calcharo",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Thundering Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Iris",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Waveworn Residue 210",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 226",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 235",
+        "Value": 52
+      },
+      {
+        "Item": "Waveworn Residue 239",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Camellya",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Topological Confinement",
+        "Value": 46
+      },
+      {
+        "Item": "Nova",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "Dreamless Feather",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Cantarella",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Cleansing Conch",
+        "Value": 46
+      },
+      {
+        "Item": "Seaside Cendrelis",
+        "Value": 60
+      },
+      {
+        "Item": "LF Polygon Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Polygon Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Polygon Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Polygon Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "When Irises Bloom",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Carlotta",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Platinum Core",
+        "Value": 46
+      },
+      {
+        "Item": "Sword Acorus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Polygon Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Polygon Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Polygon Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Polygon Core",
+        "Value": 61
+      },
+      {
+        "Item": "Impure Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Extracted Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Refined Phlogiston",
+        "Value": 52
+      },
+      {
+        "Item": "Flawless Phlogiston",
+        "Value": 67
+      },
+      {
+        "Item": "The Netherworld's Stare",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Changli",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Rage Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Pavo Plum",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "Sentinel's Dagger",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Chixia",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Rage Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Belle Poppy",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Impure Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Extracted Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Refined Phlogiston",
+        "Value": 52
+      },
+      {
+        "Item": "Flawless Phlogiston",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Danjin",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Strife Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Belle Poppy",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "Dreamless Feather",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Encore",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Rage Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Pecok Flower",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Jianxin",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Roaring Rock Fist",
+        "Value": 46
+      },
+      {
+        "Item": "Lanternberry",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Jinhsi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Elegy Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Loong's Pearl",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Waveworn Residue 210",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 226",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 235",
+        "Value": 52
+      },
+      {
+        "Item": "Waveworn Residue 239",
+        "Value": 67
+      },
+      {
+        "Item": "Sentinel's Dagger",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Jiyan",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Roaring Rock Fist",
+        "Value": 46
+      },
+      {
+        "Item": "Pecok Flower",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Waveworn Residue 210",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 226",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 235",
+        "Value": 52
+      },
+      {
+        "Item": "Waveworn Residue 239",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Lingyang",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Sound-Keeping Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Coriolus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Lumi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Thundering Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Terraspawn Fungus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Waveworn Residue 210",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 226",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 235",
+        "Value": 52
+      },
+      {
+        "Item": "Waveworn Residue 239",
+        "Value": 67
+      },
+      {
+        "Item": "Sentinel's Dagger",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Mortefi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Rage Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Coriolus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Impure Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Extracted Phlogiston",
+        "Value": 28
+      },
+      {
+        "Item": "Refined Phlogiston",
+        "Value": 52
+      },
+      {
+        "Item": "Flawless Phlogiston",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Phoebe",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Cleansing Conch",
+        "Value": 46
+      },
+      {
+        "Item": "Firecracker Jewelweed",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Sentinel's Dagger",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Roccia",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Cleansing Conch",
+        "Value": 46
+      },
+      {
+        "Item": "Firecracker Jewelweed",
+        "Value": 60
+      },
+      {
+        "Item": "LF Tidal Residuum",
+        "Value": 32
+      },
+      {
+        "Item": "MF Tidal Residuum",
+        "Value": 40
+      },
+      {
+        "Item": "HF Tidal Residuum",
+        "Value": 49
+      },
+      {
+        "Item": "FF Tidal Residuum",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "The Netherworld's Stare",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Sanhua",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Sound-Keeping Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Wintry Bell",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Shorekeeper",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Topological Confinement",
+        "Value": 46
+      },
+      {
+        "Item": "Nova",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Sentinel's Dagger",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Taoqi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Gold-Dissolving Feather",
+        "Value": 46
+      },
+      {
+        "Item": "Iris",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Waveworn Residue 210",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 226",
+        "Value": 28
+      },
+      {
+        "Item": "Waveworn Residue 235",
+        "Value": 52
+      },
+      {
+        "Item": "Waveworn Residue 239",
+        "Value": 67
+      },
+      {
+        "Item": "Dreamless Feather",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Verina",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Elegy Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Belle Poppy",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Xiangli Yao",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Hidden Thunder Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Violet Coral",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Yangyang",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Roaring Rock Fist",
+        "Value": 46
+      },
+      {
+        "Item": "Wintry Bell",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Inert Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Reactive Metallic Drip",
+        "Value": 28
+      },
+      {
+        "Item": "Polarized Metallic Drip",
+        "Value": 52
+      },
+      {
+        "Item": "Heterized Metallic Drip",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Yinlin",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Group Abomination Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Coriolus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Whisperin Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Whisperin Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Whisperin Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Whisperin Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Dreamless Feather",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Youhu",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Topological Confinement",
+        "Value": 46
+      },
+      {
+        "Item": "Violet Coral",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Yuanwu",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Hidden Thunder Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Terraspawn Fungus",
+        "Value": 60
+      },
+      {
+        "Item": "Crude Ring",
+        "Value": 32
+      },
+      {
+        "Item": "Basic Ring",
+        "Value": 40
+      },
+      {
+        "Item": "Improved Ring",
+        "Value": 49
+      },
+      {
+        "Item": "Tailored Ring",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "Unending Destruction",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Zani",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Platinum Core",
+        "Value": 46
+      },
+      {
+        "Item": "Sword Acorus",
+        "Value": 60
+      },
+      {
+        "Item": "LF Polygon Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Polygon Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Polygon Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Polygon Core",
+        "Value": 61
+      },
+      {
+        "Item": "Cadence Seed",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Bud",
+        "Value": 28
+      },
+      {
+        "Item": "Cadence Leaf",
+        "Value": 52
+      },
+      {
+        "Item": "Cadence Blossom",
+        "Value": 67
+      },
+      {
+        "Item": "The Netherworld's Stare",
+        "Value": 26
+      }
+    ]
+  },
+  {
+    "Character": "Zhezhi",
+    "ItemList": [
+      {
+        "Item": "Shell Credit",
+        "Value": 2200000
+      },
+      {
+        "Item": "Sound-Keeping Tacet Core",
+        "Value": 46
+      },
+      {
+        "Item": "Lanternberry",
+        "Value": 60
+      },
+      {
+        "Item": "LF Howler Core",
+        "Value": 32
+      },
+      {
+        "Item": "MF Howler Core",
+        "Value": 40
+      },
+      {
+        "Item": "HF Howler Core",
+        "Value": 49
+      },
+      {
+        "Item": "FF Howler Core",
+        "Value": 61
+      },
+      {
+        "Item": "Lento Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Adagio Helix",
+        "Value": 28
+      },
+      {
+        "Item": "Andante Helix",
+        "Value": 52
+      },
+      {
+        "Item": "Presto Helix",
+        "Value": 67
+      },
+      {
+        "Item": "Monument Bell",
+        "Value": 26
+      }
+    ]
+  }
+]
