@@ -1,7 +1,7 @@
 from Tool import JSONTool
 
-#=================================產生角色升級素材彙總清單=================================
-def __AddOrUpdateList(lst, newItem):
+# region=================================產生角色升級素材彙總清單=================================
+def _AddOrUpdateList(lst, newItem):
     """更新或新增素材清單"""
     for item in lst:
         if item['Item'] == newItem['Item']:
@@ -18,8 +18,8 @@ def GenTotalUpgradeItemList(itemListPath, outputPath):
         subTotalList = []
         for itemList in characterItem["ItemList"]:
             for item in itemList["Item"]:
-                __AddOrUpdateList(subTotalList, {"Item": item["ItemName"], "Value": item["Value"]})
+                _AddOrUpdateList(subTotalList, {"Item": item["ItemName"], "Value": item["Value"]})
         totalList.append({"Character": characterItem["Character"], "ItemList": subTotalList})
     
     JSONTool.Write(outputPath, totalList)
-#=================================產生角色升級素材彙總清單=================================
+# endregion==============================產生角色升級素材彙總清單=================================

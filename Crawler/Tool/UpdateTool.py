@@ -1,8 +1,8 @@
 from Tool import CrawlerTool
 from Tool import JSONTool
 
-#==========================================取得角色升級素材資料==========================================
-def __GetUpgradeItem(area, ratio = 1):
+# region==========================================取得角色升級素材資料==========================================
+def _GetUpgradeItem(area, ratio = 1):
     """從素材區塊中找到素材名稱及數量"""
     itemList = []
     item = None
@@ -21,7 +21,7 @@ def __GetUpgradeItem(area, ratio = 1):
 
     return itemList
 
-def __GetItemArea(soup, areaType, containText):
+def _GetItemArea(soup, areaType, containText):
     """取得素材區塊"""
     for area in soup.find_all(areaType):
         # 確保沒有 class 或 id 屬性
@@ -43,37 +43,37 @@ def GenCharacterUpgradeItemList(characterListPath, outputPath):
         #===============================等級提升素材===============================
         itemList.append({
             "ItemType": "等級提升素材"
-            , "Item": __GetUpgradeItem(__GetItemArea(soup, "span", "(0✦ → 6✦)"))
+            , "Item": _GetUpgradeItem(_GetItemArea(soup, "span", "(0✦ → 6✦)"))
         })
         #===============================等級提升素材===============================
 
         #===============================技能提升素材===============================
         itemList.append({
             "ItemType": "技能提升素材"
-            , "Item": __GetUpgradeItem(__GetItemArea(soup, "div", "(1 → 10 for One Main Forte)"), 5)
+            , "Item": _GetUpgradeItem(_GetItemArea(soup, "div", "(1 → 10 for One Main Forte)"), 5)
         })
         #===============================技能提升素材===============================
 
         #===============================固有技能提升素材===========================
         itemList.append({
             "ItemType": "固有技能提升素材"
-            , "Item": __GetUpgradeItem(__GetItemArea(soup, "div", "(1 → 2 for All Inherent Skill)"))
+            , "Item": _GetUpgradeItem(_GetItemArea(soup, "div", "(1 → 2 for All Inherent Skill)"))
         })
         #===============================固有技能提升素材===========================
 
         #===============================屬性提升素材===============================
         itemList.append({
             "ItemType": "屬性提升素材"
-            , "Item": __GetUpgradeItem(__GetItemArea(soup, "div", "(1 → 2 for One Strand of Stat Bonus)"), 4)
+            , "Item": _GetUpgradeItem(_GetItemArea(soup, "div", "(1 → 2 for One Strand of Stat Bonus)"), 4)
         })
         #===============================屬性提升素材===============================
 
         characterUpgradeItemList.append({"Character": character["Name"], "ItemList": itemList})
 
     JSONTool.Write(outputPath, characterUpgradeItemList)
-#==========================================取得角色升級素材資料==========================================
+# endregion=======================================取得角色升級素材資料==========================================
 
-#==========================================取得角色清單=================================================
+# region==========================================取得角色清單=================================================
 def GenCharacterList(characterListUrl, characterDataBaseUrl, outputPath):
     """取得角色清單"""
     characterList = []
@@ -82,15 +82,14 @@ def GenCharacterList(characterListUrl, characterDataBaseUrl, outputPath):
     # 取得網站內容
     soup = CrawlerTool.GetScop(characterListUrl)
 
-    # 抓角色區塊
-    characters = soup.select(".article-table.sortable.alternating-colors-table tbody tr td a[title][href]")
+    characters = soup.select(".article-table.sortable.alternating-colors-table tbody tr td span[typeof] a[title][href]")
 
     for character in characters:
-        # 只保留「純文字」的 a（沒有子元素）
-        if character.string and character.string.strip():
-            name = character.get("title")
-            link = characterDataBaseUrl + character.get("href")
-            dataList.append({"Name": name, "Link": link})
+        characterName = character["title"]
+        characterLink = characterDataBaseUrl + character["href"]
+        if character.find("img"):
+            print()
+            dataList.append({"Name": characterName, "Link": characterLink, "ImageLink": character.find("img")["data-src"]})
 
     for data in dataList:
         soup = CrawlerTool.GetScop(data["Link"])
@@ -101,4 +100,4 @@ def GenCharacterList(characterListUrl, characterDataBaseUrl, outputPath):
             continue
 
     JSONTool.Write(outputPath, characterList)
-#==========================================取得角色清單=================================================
+# endregion=======================================取得角色清單=================================================
