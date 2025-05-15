@@ -9,15 +9,19 @@ def _GetUpgradeItem(area, ratio = 1):
 
     for span in area.find_all("span"):                                                              # 找到此區域所有span區塊
         if span.find("span", class_ = "card-body") and "card-list-container" not in span["class"]:  # 如果這個span class是card-body
-            itemTag = span.find("a", title = True)                                                  # 從span區快中找出第一個 <a> 標籤，且該標籤有title屬性的元素
-            item = itemTag["title"] if itemTag else None                                            # 取得a的title
+            # itemTag = span.find("a", title = True)                                                  # 從span區快中找出第一個 <a> 標籤，且該標籤有title屬性的元素
+            # item = itemTag["title"] if itemTag else None                                            # 取得a的title
 
             valueTag = span.find("span", class_ = "card-text card-font")                            # 找到此span區塊裡class = card-text card-font的子span
             value = valueTag.get_text(strip = True) if valueTag else None                           # 取得子span值
             value = int(value.replace(",", ""))
+
+            imgTag = span.find("img")
+            item = imgTag["alt"] if imgTag else None
+            img = imgTag["data-src"] if imgTag else None
             
             if value is not None:
-                itemList.append({"ItemName": item, "Value": value * ratio})
+                itemList.append({"ItemName": item, "Value": value * ratio, "ImageLink": img})
 
     return itemList
 
